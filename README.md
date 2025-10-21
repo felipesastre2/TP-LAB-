@@ -2,7 +2,8 @@ Integrantes:
 Agustín Elian Fuentes
 Lucas Nicolás Lenza
 Felipe Sastre
-José Ramiro González Martín
+José Ramiro González Martín.
+
 Este trabajo fue hecho para la materia Analisis de Datos Econmicos y financieros,donde teníamos que elegir un dataset, hacernos algunas preguntas y analizarlas usando herramientas del tidyverse.
 Luego, hicimos algunos ejercicios con datos de Gapminder y una simulación del juego TEG.
 
@@ -13,5 +14,6 @@ library(tidyverse)
 library(ggplot2)
 library(dplyr)
 library(gapminder)
+
 
 
